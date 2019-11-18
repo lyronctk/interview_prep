@@ -1,0 +1,78 @@
+
+=======================
+=== REVIEW STRATEGY ===
+=======================
+
+
+===== DONE ===== 
+
+- Stacks & Queues
+- BSTs + self-balancing 
+    > briefly look into self balancing w/ red-black or b-trees
+    > w/ traversal algorithms: pre-order, in-order, post-order
+
+================
+
+
+===== IN QUEUE ===== 
+
+- n-ary trees
+
+================
+
+
+
+===== TO DO =====
+
+- Trie
+- Hash Table
+- Heaps
+- Graph Search Algorithms
+    > DFS, BFS, Dijkstra's
+    > briefly look into A*
+- binary search
+    > recursive and iterative
+    > just in case i'm dumb and i trip over implementation
+- sorting algorithms 
+    > merge & quick & bubble & insertion & heap
+    > look into stable vs unstable sort
+- divide and conquer algorithms
+- priority queue
+- bloom filter
+- LRU cache
+
+================
+
+
+
+
+===== MISC POINTS TO REMEMBER =====
+
+- Processor connects to the Memory Controller to 
+    have a direct access to each slot in RAM
+- Processor caches nearby data whenever a memory
+    slot is accessed (why accessing sequencial
+    slots in working memory is slightly faster 
+    than jumping around)
+
+===================================
+
+
+
+===== PRACTICE PROBLEMS =====
+
+https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions-set-2/
+
+=============================
+
+
+
+===== BEFORE LIVE INTERVIEWS =====
+
+https://www.interviewcake.com/coding-interview-tips?course=fc1&section=interview-tips
+https://www.interviewcake.com/interview-process-at-tech-companies?course=fc1&section=interview-tips
+https://www.interviewcake.com/behavioral-questions-programming-interview-story-telling?course=fc1&section=interview-tips
+
+==================================
+

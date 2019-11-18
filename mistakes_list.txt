@@ -1,0 +1,6 @@
+1) When explaining how you calculate runtime, give the most specific estimate 
+possible before simplifying. Or, give the simple answer and say the specific 
+as a remark (even if it is a vague one, like "more than" or "less than"). 
+2) When considering a tree representing the call stack, don't just count the 
+outermost leaves. Eg. When generating permutations, multiply by length of 
+permutation to account for "intermediate" function calls. 
